@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Branch dev add merge test.
 Git is a free software. 
+
